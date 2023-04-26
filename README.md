@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/friendlyvirgo/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/friendlyvirgo/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/friendlyvirgo/Post-Installation_Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/friendlyvirgo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/friendlyvirgo/configure-ad)
